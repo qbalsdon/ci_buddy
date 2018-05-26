@@ -10,6 +10,13 @@ For quite a reasonable price. The code has come from a variety of sources, but I
 
 ![Oooooh, Aaaaah](pcb.png) 
 
+## Usage
+Once it's all built and the code uploaded, you can just use a serial writer to upload instructions. I used 
+
+``` screen /dev/tty.wchusbserial1430 ```
+
+but you can make a Python script to manage this as well. *TAKE NOTE* when the serial session is ended, the device will reset!
+
 ### References:
 * https://www.arduino.cc/en/Tutorial/PlayMelody
 * https://forum.arduino.cc/index.php?topic=412850.0
