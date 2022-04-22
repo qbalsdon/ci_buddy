@@ -1,3 +1,5 @@
+# DEPRECATED: This project is no longer maintained
+
 # THE SERIAL BUILD SERVER ASSISTANT
 
 This project is a labour of love to say farewell to our friend James, and to wish him all success in his new endeavours. The cool thing about this project is that you could use it as quite a nice educational tool to teach kids about
